@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Bullet Hell/Assets/PlayingTime.cs.meta
+guid: 3c81f54fdb82eae4895b61d8ca48c2bc
+========
+guid: 20bc86bb15dc361419ebe07c09ac880d
+>>>>>>>> b4ae2aa7 (Boss Enemy):Bullet Hell/Assets/scripts/Enemies/Boss.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
